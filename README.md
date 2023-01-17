@@ -1,1 +1,1 @@
-Hello, my name is Shlabadee. I'm interested in developing audio programs for video games, specifically retro-styled ones.
+Hello, my name is Shlabadee. Although I'm not doing much programming at the moment, I'm wanting to create my own video games, and then eventually free and open source audio software for Linux and Windows.
