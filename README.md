@@ -1,1 +1,2 @@
-Hello, my name is Shlabadee. Although I'm not doing much programming at the moment, I'm wanting to create my own video games, and then eventually free and open source audio software for Linux and Windows.
+# Shlabadee
+Hello, my name is Shlabadee. Right now, I'm in school to get my bachelor's in computer science. Working on whatever pops in my head.
